@@ -21,13 +21,13 @@ This repository offers training and evaluation code for the CVP-MVSNet on the ET
 
 ## 1. Download_dataset
 
-Training data(3G):
+Training data(5G):
 
-Download the pre-processed ETH3D training data from [here](https://drive.google.com/file/d/1eqcv0Urr-c3Of8RKmTLhXrY_5cZCUvu5/view) and extract it to `CVP_MVSNet/dataset/eth3d_train`.
+Download the pre-processed ETH3D training data from [here](https://drive.google.com/file/d/1EMb65HxFQG8NiJMBJ6C_cm8ohLFOFrcf/view) and extract it to `CVP_MVSNet/dataset/eth3d_train`.
 
-Test data(0.5G):
+Test data(0.9G):
 
-Download the pre-processed ETH3D test data from [here](https://drive.google.com/file/d/1hGft7rEFnoSrnTjY_N6vp5j1QBsGcnBB/view) and extract it to `CVP_MVSNet/dataset/eth3d_test`.
+Download the pre-processed ETH3D test data from [here](https://drive.google.com/file/d/1lQ-UloHlFL1zeE6InVCrBJQLtaZvHbZU/view) and extract it to `CVP_MVSNet/dataset/eth3d_test`.
 
 ## 2. Install_requirements
 
